@@ -50,7 +50,7 @@ I actively practice DSA & problem-solving to strengthen my logic and interview r
 |----------|-------------|----------|
 | **LeetCode** | Arrays, HashMaps, Strings, Trees, DP | 40+ problems solved |
 | **GitHub** | Uploading solutions consistently | Active |
-| **Goal** | 150+ problems by Summer 2025 | On track |
+| **Goal** | 150+ problems by Summer 2026 | On track |
 
 📌 Languages used: Python, C++, Java  
 
