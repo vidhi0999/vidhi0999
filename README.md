@@ -10,29 +10,23 @@
 - 📍 Arlington, TX | she/her  
 - 📫 Reach me: **thummarvidhi26@gmail.com**  
 - 🔗 Connect on LinkedIn: [linkedin.com/in/vidhi-thummar-9ba110282](https://www.linkedin.com/in/vidhi-thummar-9ba110282)  
-- 🌱 Actively seeking **Summer 2025 Software / ML Internship**  
+- 🌱 Actively seeking **Summer 2026 Software / ML Internship**  
 
 ---
 
 ### 🛠 Tech Stack
 
-**Languages:**  
-`Python` | `Java` | `C++` | `SQL`
+**Languages:**  `Python` | `Java` | `C++` | `SQL`
 
-**Web Development:**  
-`Flask` | `ReactJS` | `Node.js` | `Express` | `REST APIs` | `PHP`
+**Web Development:**  `Flask` | `ReactJS` | `Node.js` | `Express` | `REST APIs` | `PHP`
 
-**Cloud & DevOps:**  
-`AWS (EC2, S3, DynamoDB)` | `Docker` | `CI/CD` | `Kubernetes`
+**Cloud & DevOps:**  `AWS (EC2, S3, DynamoDB)` | `Docker` | `CI/CD` | `Kubernetes`
 
-**Databases:**  
-`MongoDB` | `MySQL` | `PostgreSQL` | `Neo4j`
+**Databases:**  `MongoDB` | `MySQL` | `PostgreSQL` | `Neo4j`
 
-**AI / ML:**  
-`CNNs` | `Transfer Learning` | `Prompt Engineering` | `RAG`
+**AI / ML:**  `CNNs` | `Transfer Learning` | `Prompt Engineering` | `RAG`
 
-**Tools:**  
-`Tableau` | `Power BI` | `Git` | `Linux` | `Postman`
+**Tools:**  `Tableau` | `Power BI` | `Git` | `Linux` | `Postman`
 
 ---
 
