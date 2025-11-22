@@ -14,22 +14,6 @@
 
 ---
 
-### 🛠 Tech Stack
-
-**Languages:**  `Python` | `Java` | `C++` | `SQL`
-
-**Web Development:**  `Flask` | `ReactJS` | `Node.js` | `Express` | `REST APIs` | `PHP`
-
-**Cloud & DevOps:**  `AWS (EC2, S3, DynamoDB)` | `Docker` | `CI/CD` | `Kubernetes`
-
-**Databases:**  `MongoDB` | `MySQL` | `PostgreSQL` | `Neo4j`
-
-**AI / ML:**  `CNNs` | `Transfer Learning` | `Prompt Engineering` | `RAG`
-
-**Tools:**  `Tableau` | `Power BI` | `Git` | `Linux` | `Postman`
-
----
-
 ### 📌 Featured Projects  
 | Project | Description | Tech |
 |--------|-------------|------|
