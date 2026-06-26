@@ -1,58 +1,25 @@
-<h1 align="center">Hi 👋, I’m Vidhi Thummar</h1>
-<h3 align="center">MS CS @ University of Texas at Arlington | Software & ML Engineer Enthusiast</h3>
+# Hi, I'm Vidhi Thummar 👋
 
----
+Graduate Computer Science Student at UT Arlington | Aspiring Software Engineer
 
-### 🚀 About Me  
-- 🎓 Pursuing **Master’s in Computer Science** at **University of Texas at Arlington (UTA)**  
-- 🧠 Passionate about building **scalable systems, cloud-based architectures**, and **AI/ML solutions**  
-- 🤖 Technologies I enjoy: **Python**, **Flask**, **AWS**, **ReactJS**, **Computer Vision**, **Data Structures & Algorithms**  
-- 📍 Arlington, TX | she/her  
-- 📫 Reach me: **thummarvidhi26@gmail.com**  
-- 🔗 Connect on LinkedIn: [linkedin.com/in/vidhi-thummar-9ba110282](https://www.linkedin.com/in/vidhi-thummar-9ba110282)  
-- 🌱 Actively seeking **Summer 2026 Software / ML Internship**  
+I specialize in building concurrent backend applications, scalable data platforms, and cloud-native solutions. I'm highly focused on writing clean, testable object-oriented code and designing optimized database workflows.
 
----
+## 🛠️ Tech Stack & Tooling
+- **Languages:** Java (Core, OOP), C++, Python, SQL, Bash
+- **Frameworks:** Spring Boot, Hibernate, RESTful Microservices
+- **Cloud & Data:** AWS (S3, Lambda, Kinesis, DynamoDB), PySpark, Apache Airflow
+- **DevOps & Testing:** Unix/Linux, Git, Docker, Jenkins CI/CD, JUnit, PyTest
 
-### 📌 Featured Projects  
-| Project | Description | Tech |
-|--------|-------------|------|
-| 😊 **Emotion-Sensitive Computer Vision System** | Real-time facial emotion detection web app using Flask + CNN | Python, Flask, CNN |
-| 📊 **NexTrend** | Trend prediction & analytics using Jupyter Notebooks | Jupyter Notebook |
-| 📦 **Skyline-Cement-Portal** | Web portal for cement company order & inventory management | PHP |
-| 🧠 **DAA Project** | Data Structures & Algorithms optimization tasks | Python, Jupyter |
+## 🚀 Highlighted Projects
 
-👉 Check out my pinned repositories on my profile!
+### 1. Multi-Threaded Transaction Processing Ledger (Java)
+A concurrent ledger system built to handle high-throughput financial transactions safely within a Unix environment. It addresses data race conditions, manages memory thread allocation, and enforces strict isolation tiers using relational SQL setups.
+👉 [View Repository](your-link-here)
 
----
+### 2. Cloud-Native Streaming Data Pipeline (Python & AWS)
+An end-to-end real-time event streaming processor handling up to 10,000 events/sec. Leverages AWS Kinesis and Lambda to ingest, clean, and pipe streaming data directly into DynamoDB with sub-100ms lookups.
+👉 [View Repository](your-link-here)
 
-### 🧠 Data Structures & Algorithms Practice
-
-I actively practice DSA & problem-solving to strengthen my logic and interview readiness.
-
-| Platform | Focus Areas | Progress |
-|----------|-------------|----------|
-| **LeetCode** | Arrays, HashMaps, Strings, Trees, DP | 40+ problems solved |
-| **GitHub** | Uploading solutions consistently | Active |
-| **Goal** | 150+ problems by Summer 2026 | On track |
-
-📌 Languages used: Python, C++, Java  
-
----
-
-### 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vidhi0999&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vidhi0999&theme=radical" alt="Streak Stats" />
-</p>
-
----
-
-### 📬 Let’s Connect  
-<p align="left">
-  <a href="https://www.linkedin.com/in/vidhi-thummar-9ba110282" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"></a>
-  <a href="mailto:thummarvidhi26@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail"></a>
-</p>
-
-⭐ If you find my work interesting, feel free to give my repos a star and follow along for updates!
+### 3. LLM-Powered Code Modernizer (Python & C++)
+An automated application refactoring tool that parses deprecated C++ code structures and safely modernizes syntax rules up to modern production standards using custom OpenAI prompt chaining.
+👉 [View Repository](your-link-here)
